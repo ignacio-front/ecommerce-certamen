@@ -1,17 +1,34 @@
-# ecommerce-certamen
-Proyecto de desarrollo colaborativo de una plataforma web e-commerce para la empresa ficticia TechStore
-# E-commerce TechStore
+# TechStore - Plataforma Web E-commerce
 
-Este proyecto simula una plataforma web e-commerce simple, desarrollada colaborativamente usando Git y GitHub. Se implementa con HTML, CSS (Flexbox), JavaScript, React y Node.js (para simular backend). Cada rama representa una parte del desarrollo.
+Este repositorio contiene el desarrollo colaborativo de una plataforma web e-commerce básica para la empresa  **TechStore**. El proyecto está dividido en ramas específicas según la funcionalidad implementada.
 
-## Instrucciones para Ejecutar
+## 📌 Descripción
 
-1. Clona este repositorio.
-2. Instala dependencias si es necesario (`npm install`).
-3. Corre el servidor local con `npm start` o `node server.js`.
+El objetivo es construir una aplicación que permita:
 
-## Integrantes
-- ignacio
-- Alonso
+- Mostrar productos disponibles.
+- Buscar productos por nombre.
+- Ver detalles básicos de cada producto.
+- Simular una acción de compra.
+
+## 🛠️ Tecnologías utilizadas
+
+- HTML
+- CSS (Flexbox)
+- JavaScript
+- React.js (para la interfaz)
+- Node.js + Express (para simular backend)
+- Git y GitHub (para trabajo colaborativo)
+
+## 📂 Estructura de ramas
+
+- `main`: Rama principal del proyecto final.
+- `estructura`: Contiene la estructura básica del sitio en HTML.
+- `estilos`: Contiene los estilos CSS y diseño responsivo.
+- `logica`: Incluye la lógica en JavaScript (buscador, botón de compra).
+- `frontend`: Implementación del frontend en React.
+- `backend`: Simulación del servidor con Node.js y JSON.
+
+
   
 
