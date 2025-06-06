@@ -2,7 +2,7 @@
 
 Este repositorio contiene el desarrollo colaborativo de una plataforma web e-commerce básica para la empresa  **TechStore**. El proyecto está dividido en ramas específicas según la funcionalidad implementada.
 
-## 📌 Descripción
+##  Descripción
 
 El objetivo es construir una aplicación que permita:
 
@@ -11,7 +11,7 @@ El objetivo es construir una aplicación que permita:
 - Ver detalles básicos de cada producto.
 - Simular una acción de compra.
 
-## 🛠️ Tecnologías utilizadas
+## 🛠 Tecnologías utilizadas
 
 - HTML
 - CSS (Flexbox)
@@ -20,7 +20,7 @@ El objetivo es construir una aplicación que permita:
 - Node.js + Express (para simular backend)
 - Git y GitHub (para trabajo colaborativo)
 
-## 📂 Estructura de ramas
+##  Estructura de ramas
 
 - `main`: Rama principal del proyecto final.
 - `estructura`: Contiene la estructura básica del sitio en HTML.
