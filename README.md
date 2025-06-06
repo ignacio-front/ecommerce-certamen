@@ -11,7 +11,7 @@ El objetivo es construir una aplicación que permita:
 - Ver detalles básicos de cada producto.
 - Simular una acción de compra.
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - HTML
 - CSS (Flexbox)
