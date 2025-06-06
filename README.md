@@ -11,7 +11,7 @@ Este proyecto simula una plataforma web e-commerce simple, desarrollada colabora
 3. Corre el servidor local con `npm start` o `node server.js`.
 
 ## Integrantes
-- Nombre 1
-- Nombre 2
-- etc.
+- ignacio
+- Alonso
+  
 
